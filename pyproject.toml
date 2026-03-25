@@ -1,0 +1,20 @@
+[project]
+name = "gauss-mathtest-practice"
+version = "0.1.0"
+description = "캐나다 Grade 7/8 학생이 Gauss 과거 시험 문제를 활용해 연습할 수 있는, 간단한 퀴즈형 LangGraph 에이전트"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain[openai]>=0.3.27",
+    "langgraph>=0.6.7",
+    "langgraph-cli[inmem]>=0.4.2",
+    "langsmith>=0.4.28",
+    "openai[aiohttp]>=1.107.3",
+    "python-dotenv>=1.1.1",
+    "tiktoken>=0.11.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.30.1",
+]
