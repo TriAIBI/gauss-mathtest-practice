@@ -1,0 +1,467 @@
+2025 Gauss Grade 7 Contest
+2025 Gauss Contest
+Grade 7
+Wednesday, May 14, 2025
+(in North America and South America)
+Thursday, May 15, 2025
+(outside of North American and South America)
+Â©2025 University of Waterloo
+Instructions
+Time:
+1 hour
+Calculating devices are allowed, provided that they do not have any of the following features: (i) internet access, (ii) the ability to communicate with other devices, (iii) information previously stored by students (such as formulas, programs, notes, etc.), (iv) a computer algebra system, (v) dynamic geometry software.
+Do not open the Contest booklet until you are told to do so.
+You may use rulers, compasses and paper for rough work.
+Be sure that you understand the coding system for your answer sheet.  If you are not sure, ask your teacher to explain it.
+This is a multiple-choice test.  Each question is followed by five possible answers marked
+A
+,
+B
+,
+C
+,
+D
+, and
+E
+.  Only one of these is correct. When you have made your choice, enter the appropriate letter for that question on your answer sheet.
+Scoring:
+Each correct answer is worth 5 in Part A, 6 in Part B, and 8 in Part C.
+There is
+no penalty
+for an incorrect answer.
+Each unanswered question is worth 2, to a maximum of 10 unanswered questions.
+Diagrams are
+not
+drawn to scale.  They are intended as aids only.
+When your supervisor instructs you to start, you will have
+sixty
+minutes of working time.
+The name, school and location of some top-scoring students will be published on the Web site, cemc.uwaterloo.ca.  On this website, you will also be able to find copies of past Contests and excellent resources for enrichment, problem solving and contest preparation.
+Scoring:
+There is
+no penalty
+for an incorrect answer.
+Each unanswered question is worth 2, to a maximum of 10 unanswered questions.
+Part A: Each correct answer is worth 5.
+In a group of
+\(12\)
+friends,
+each friend gives
+\(\$5\)
+to a charity.
+How much money does the group give in total?
+\(\$50\)
+\(\$55\)
+\(\$60\)
+\(\$65\)
+\(\$70\)
+In the diagram, what fraction of the area of the regular hexagon
+is shaded?
+\(\dfrac13\)
+\(\dfrac14\)
+\(\dfrac17\)
+\(\dfrac12\)
+\(\dfrac16\)
+The graph shows the number of apples that each of five students
+ate during a week.
+Which student ate the greatest number of apples?
+Dae
+Joe
+Etta
+Susie
+Vinh
+The equal-arm scale shown is balanced.
+One
+has the same mass as
+Which of the following is equal to the area of a square with side
+length
+\(8\)
+?
+\(8\!\times\!2\)
+\(2\!\times\!(8\!+\!8)\)
+\(8\!\times\!8\)
+\(4\!\times\!8\)
+\(8\!\times\!8\!\times\!8\!\times\!8\)
+In the diagram,
+\(\angle PQR\)
+is a straight angle.
+The value of
+\(x\)
+is
+\(60\)
+\(40\)
+\(50\)
+\(70\)
+\(65\)
+The list of seven numbers
+\(3\)
+,
+\(15\)
+,
+\(8\)
+,
+\(8\)
+,
+\(9\)
+,
+\(9\)
+,
+\(n\)
+has exactly one mode, which is
+\(8\)
+.
+What is the value of
+\(n\)
+?
+\(15\)
+\(9\)
+\(3\)
+\(8\)
+\(10\)
+Sam has only one measuring container. The volume of this
+container is
+\(\frac 12\)
+cup. A recipe
+needs
+\(2\frac 12\)
+cups of flour. How
+many times does Sam fill his
+\(\frac
+12\)
+cup container to accurately measure the flour for this
+recipe?
+\(3\)
+\(2\frac 12\)
+\(10\)
+\(4\frac 12\)
+\(5\)
+The month of June has 30 days. If in a certain year June 1 is on
+a Tuesday, on which day of the week is June 30?
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+The words "
+PâUâG âFâOâR âSâAâLâE
+" are written on a store window. How many of these ten letters look the
+same when viewed from both sides of the window?
+\(3\)
+\(4\)
+\(5\)
+\(6\)
+\(7\)
+Part B: Each correct answer is worth 6.
+The coordinates of
+\(R\)
+are
+\((2,6)\)
+, as shown. After which of
+these translations will
+\(R\)
+move to
+the point
+\((7,0)\)
+?
+right \(9\), down \(6\)
+left \(5\), up \(6\)
+right \(6\), down \(5\)
+left \(6\), down \(5\)
+right \(5\), down \(6\)
+A train stops at Waterloo Station every
+\(3\)
+minutes. A bus stops at Waterloo
+Station every
+\(5\)
+minutes. A train
+and a bus both stop at Waterloo Station at
+\(\text{6:25~a.m}\)
+. The next time that a
+train and a bus both stop at Waterloo Station at the same time is
+\(\text{6:28~a.m.}\)
+\(\text{6:30~a.m.}\)
+\(\text{6:33~a.m.}\)
+\(\text{6:40~a.m.}\)
+\(\text{6:55~a.m.}\)
+The numbers
+\(2\)
+,
+\(0\)
+,
+\(2\)
+,
+\(5\)
+are repeated to form the pattern
+\(2\)
+,
+\(0\)
+,
+\(2\)
+,
+\(5\)
+,
+\(2\)
+,
+\(0\)
+,
+\(2\)
+,
+\(5\)
+,
+\(\ldots\)
+If a total of
+\(50\)
+numbers are
+written, how many times will the number
+\(5\)
+appear?
+\(10\)
+\(11\)
+\(12\)
+\(13\)
+\(25\)
+What number goes in the box so that
+\(\dfrac{28}{32}+\dfrac{1}{\square}=1\)
+?
+\(24\)
+\(-3\)
+\(7\)
+\(16\)
+\(8\)
+Two standard six-sided dice are rolled. If the two numbers on the
+top faces are added, which of the following sums is least likely?
+\(7\)
+\(8\)
+\(9\)
+\(10\)
+\(11\)
+Each of the digits
+\(7\)
+,
+\(1\)
+,
+\(3\)
+,
+\(6\)
+,
+\(8\)
+, and
+\(2\)
+is placed into one of the squares below
+to make an expression containing three 2-digit numbers.
+When the first two 2-digit numbers are added and the third is
+subtracted, the greatest possible result is
+\(139\)
+\(145\)
+\(147\)
+\(149\)
+\(138\)
+Savanah tossed a fair coin some number of times and
+\(50\%\)
+of those tosses resulted in tails.
+She then tossed the coin one final time and the result was tails. If
+\(60\%\)
+of all tosses resulted in
+tails, how many tosses did she make in total?
+\(3\)
+\(9\)
+\(8\)
+\(5\)
+\(10\)
+Four of the angle measurements
+\(62\degree, 85\degree, 99\degree, 108\degree,
+114\degree\)
+are the measures of the angles in the same
+quadrilateral. Which angle measure is not?
+\(62\degree\)
+\(85\degree\)
+\(99\degree\)
+\(108\degree\)
+\(114\degree\)
+Ten students each receive a card numbered with a different
+integer from
+\(10\)
+to
+\(19\)
+. The students are each given the
+checklist shown and they check off each box that describes their
+number.
+â
+Odd Number
+â
+Even Number
+â
+Prime
+Number
+â
+Composite
+Number
+â
+Perfect
+Square
+How many students check off exactly two boxes?
+\(10\)
+\(9\)
+\(8\)
+\(7\)
+\(6\)
+Figure
+\(PQRST\)
+is shown
+below.
+In the figure,
+\(\angle PQR=\angle
+QRS=\angle TPQ=60\degree\)
+. Also,
+\(PT\)
+is parallel to
+\(SR\)
+and
+\(TS\)
+is parallel to
+\(QR\)
+. If
+\(PQ=10\text{ cm}\)
+and
+\(TS=6\text{ cm}\)
+, the perimeter of figure
+\(PQRST\)
+is
+\(42\text{ cm}\)
+\(36\text{ cm}\)
+\(40\text{ cm}\)
+\(38\text{ cm}\)
+\(44\text{ cm}\)
+Part C: Each correct answer is worth 8.
+Three circles have radii
+\(1\)
+cm,
+\(5\)
+cm, and
+\(x\)
+cm. If the mean (average) area of the
+three circles is
+\(30\pi \text{
+cm}^2\)
+, the value of
+\(x\)
+is
+\(64\)
+\(5\)
+\(24\)
+\(8\)
+\(2\)
+Each of three doors is painted one colour: either black or white
+or gold. Each colour is equally likely to be chosen for each door. What
+is the probability that at least one colour is not used?
+\(\dfrac{7}{9}\)
+\(\dfrac{5}{9}\)
+\(\dfrac{20}{27}\)
+\(\dfrac{2}{9}\)
+\(\dfrac{2}{3}\)
+Suppose
+\(a, b\)
+and
+\(c\)
+are the last three digits of the
+six-digit integer
+\(N = 111\,abc\)
+. If
+\(N\)
+is divisible by
+\(18\)
+, how many possibilities are there for
+\(N\)
+?
+\(50\)
+\(55\)
+\(56\)
+\(110\)
+\(112\)
+In the diagram, each row, each column, and each shape shown by
+the thick lines must contain the letters
+\(A\)
+,
+\(B\)
+,
+\(C\)
+,
+\(D\)
+, and
+\(E\)
+.
+Hide/Reveal Description of Diagram for Question 24
+A five by five grid with thick lines dividing the grid into five different shapes. Each shape is made up of five connected squares from the grid. Numbering the rows in the grid 1 through 5 from top to bottom and the columns 1 through 5 from left to right, the squares making up each of the five shapes are as follows:
+Squares 1 through 4 in column 1 and square 3 in column 2.
+Squares 2 through 5 in row 1 and square 4 in row 2.
+Squares 2 and 3 in row 2, square 3 in row 3, and squares 3 and 4 in row 4.
+Square 2 in row 4 and squares 1 through 4 in row 5.
+Square 3 in column 4 and squares 2 through 5 in column 5.
+There are letters in five of the squares as follows:
+\(A\)
+is in row 2, column
+4.
+\(B\)
+is in row 5, column
+3.
+\(C\)
+is in row 3, column
+2.
+\(D\)
+is in row 2, column
+3.
+\(E\)
+is in row 5, column
+5.
+The square in row 4, column 1 is shaded.
+If each square contains exactly one letter, what letter must be
+placed in the shaded square?
+\(A\)
+\(B\)
+\(C\)
+\(D\)
+\(E\)
+In an
+arithmetic grid
+, adjacent numbers increase by a
+fixed integer
+\(a>0\)
+moving left to
+right within each row. Also, adjacent numbers increase by a fixed
+integer
+\(b>0\)
+moving top to bottom
+within each column. For example, the grid shown is a
+\(3 \times 3\)
+arithmetic grid with
+\(a = 2\)
+and
+\(b =
+5\)
+.
+\(1\)
+\(3\)
+\(5\)
+\(6\)
+\(8\)
+\(10\)
+\(11\)
+\(13\)
+\(15\)
+Suppose that an
+\(8 \times 8\)
+arithmetic grid has a
+\(1\)
+in the top
+left corner, and a number less than
+\(75\)
+in the bottom right corner. How many
+such grids have a
+\(45\)
+somewhere in
+column 5?
+\(6\)
+\(3\)
+\(7\)
+\(5\)
+\(4\)
